@@ -1,0 +1,15 @@
+1
+W;1232;APT;Automation;5;3;8:30;1:15
+11
+100000;Nguyen;Trong;23.3.2000;Nieder;64287;Darmstadt; 
+100001;bauer;angelina;24.2.1989;6907 finkenweg;211;starnberg; 
+100002;pierre;ezio;25.3.1953;4787 place de l'europe;30816;metz; 
+100003;tucker;cameron;1.8.1983;9855 station road;19116;tullow; 
+100004;ouellet;hannah;15.6.1966;3184 simcoe st;28768;killarney; 
+100005;bertram;ananda;11.5.1936;2602 ganzenmarkt;20301;ouder-amstel; 
+100006;metzger;tamara;15.9.1965;2977 mühlweg;22852;segeberg; 
+100007;claire;alicia;24.10.2016;7326 15th st;31568;hampton; 
+100008;van hamond;sohaïb;27.3.1990;4373 korte lauwerstraat;17052;uden; 
+100009;margaret;dylan;21.4.2019;5212 stanley way;30643;melbourne; 
+100010;crespo;cristina;11.9.1994;6847 ronda de toledo;61364;elche; 
+0
