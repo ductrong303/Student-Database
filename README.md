@@ -1,4 +1,4 @@
-# 🧑‍🎓 Student Database Management System (APT_Lab_3_StudentDB)
+# 🧑‍🎓 Student Database Management System
 
 A simple **console-based Student Management System** that allows users to manage student records, courses, and enrollments.  
 This project demonstrates file handling, structured data management, and menu-driven interaction in a C++ application.
@@ -132,8 +132,3 @@ End time: 19:15
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**  
-📧 your.email@example.com  
-📘 [LinkedIn](https://linkedin.com/in/yourprofile) | 💻 [GitHub](https://github.com/yourusername)
