@@ -1,6 +1,6 @@
 # 🧑‍🎓 Student Database Management System
 
-A simple **console-based Student Management System** that allows users to manage student records, courses, and enrollments.  
+A **console-based Student Management System** that allows users to manage student records, courses, and enrollments.  
 This project demonstrates file handling, structured data management, and menu-driven interaction in a C++ application.
 
 ---
